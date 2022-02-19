@@ -25,3 +25,9 @@ Realizar una vista grid con Jetpack Compose, para este reto se han creado varias
 - `DataProvider.kt` Crea una lista de objetos `Perro`, que utilizaremos para rellenar el grid
 - `PerrosListItem.kt` Vista de Compose que se le aplica a cada item del grid
 - `ProfileActivity.kt` Activity de Compose que mostrara los detalles del item seleccionado
+
+## GitHub
+- Link del repositorio GitHub - [AppRetos](https://github.com/pepbon09/AppRetos) 
+
+## Autor
+- Pep Bonafont Chiner - [@pepbon09](https://github.com/pepbon09)
